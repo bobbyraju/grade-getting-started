@@ -32,7 +32,7 @@ public class Main {
               ctx.render("look at this!");
             })
 
-            .get("new testing", ctx -> {
+            .get("newTesting", ctx -> {
               ctx.render("look at this again!");
             })
 
