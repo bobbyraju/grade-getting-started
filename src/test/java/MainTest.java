@@ -6,6 +6,6 @@ import org.junit.*;
 public class MainTest {
     @Test
     public void initialTest() {
-        Assert.assertTrue( 1 == 2);
+        Assert.assertTrue( 1 == 1);
     }
 }
